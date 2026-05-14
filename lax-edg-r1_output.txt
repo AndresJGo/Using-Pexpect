@@ -1,0 +1,25 @@
+enable
+show version
+Arista vEOS-lab
+Hardware version: 
+Serial number: 82A61BA6E539748AC23D830989EF7740
+Hardware MAC address: 0c87.a35a.a5d5
+System MAC address: 0c87.a35a.a5d5
+
+Software image version: 4.30.10M
+Architecture: i686
+Internal build version: 4.30.10M-41613166.43010M
+Internal build ID: d1905f45-b707-4cd0-be35-0af82e285492
+Image format version: 1.0
+Image optimization: None
+
+Uptime: 2 hours and 14 minutes
+Total memory: 3978916 kB
+Free memory: 2986104 kB
+
+show ip interface brief
+                                                                        Address
+Interface       IP Address            Status     Protocol        MTU    Owner  
+--------------- --------------------- ---------- ------------ --------- -------
+Management1     192.168.122.68/24     up         up             1500           
+
