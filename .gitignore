@@ -1,0 +1,18 @@
+# Ignorar entornos virtuales
+lab_venv/
+venv/
+env/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar respaldos de red y configuraciones
+*_output.txt
+*.txt
+
+!paramikoCommands.txt
+
+# Ignorar archivos ocultos de sistema operativo
+.DS_Store
+Thumbs.db
